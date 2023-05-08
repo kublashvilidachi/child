@@ -1,0 +1,83 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.buttons{
+    display: flex;
+    justify-content: right; 
+    padding: 40px 123px;
+    height: 40px;
+}
+.button1{
+    padding-left:  25px;
+    padding-right:  25px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: medium;
+    font-family: 'Inter', sans-serif;
+    background-color: none;
+    border-bottom: solid rgb(255 206 114) 0px;
+}
+
+
+.button2{
+    padding-left:  25px;
+    padding-right:  25px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: medium;
+    font-family: 'Inter', sans-serif;
+    background-color: none;
+    border-bottom: solid rgb(255 206 114) 0px;
+}
+
+
+.button3{
+    padding-left:  25px;
+    padding-right:  25px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: medium;
+    font-family: 'Inter', sans-serif;
+    background-color: none;
+    border-bottom: solid rgb(255 206 114) 0px;
+}
+
+
+.button4{
+    padding-left:  25px;
+    padding-right:  25px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: medium;
+    font-family: 'Inter', sans-serif;
+    background-color: none;
+    border-bottom: solid rgb(255 206 114) 0px;
+}
+.Mytext{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: -0.204545px;
+    color: #1E2833;
+}
+.center{
+    justify-content: center;
+}
+.flex{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: black weight 1; 
+}

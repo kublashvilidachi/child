@@ -1,0 +1,37 @@
+.button1:hover{
+    font-size: larger;
+    border-bottom: solid rgb(255 206 114) 2px;
+    padding-bottom: 10px;
+    transition: 0.2s;
+}
+.button2:hover{
+    font-size: larger;
+    border-bottom: solid rgb(255 206 114) 2px;
+    padding-bottom: 10px;
+    transition: 0.2s;
+}
+.button3:hover{
+    font-size: larger;
+    border-bottom: solid rgb(255 206 114) 2px;
+    padding-bottom: 10px;
+    transition: 0.2s;
+}
+.button4:hover{
+    font-size: larger;
+    border-bottom: solid rgb(255 206 114) 2px;  
+    padding-bottom: 10px;
+    transition: 0.2s;
+}
+.button{
+    background-color: green;
+    padding: 10px 25px;
+    font-size: 30px;
+    border-radius: 50px;
+    color: white;
+}
+.button:hover{
+    background-color: darkgreen;
+    font-size: 30px;
+    border-radius: 50px;
+    color: white;
+}
